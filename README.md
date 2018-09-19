@@ -1,4 +1,4 @@
-### **Drafting Dicktionary9**
+### **Drafting Dictionary9**
 
 **Acronym**  |  **Long Form**
 ---------|------------
