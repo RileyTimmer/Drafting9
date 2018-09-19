@@ -1,8 +1,10 @@
-**Drafting Dicktionary9**
+### **Drafting Dicktionary9**
 
-Acronym  |  Long Form
+**Acronym**  |  **Long Form**
 ---------|------------
-ANSI     |  American National Standards Institute    
-CAD      |  Computer-aided design         
-CNC      |  Computer Numerical Controlr
+ANSI     |  _[American National Standards Institute](https://www.ansi.org/)_    
+CAD      |  _Computer-aided design_       
+CNC      |  _Computer Numerical Control_
          | 
+
+:squirrel: :octocat: :space_invader::dog: 
