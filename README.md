@@ -1,7 +1,9 @@
-# Drafting9
+**Drafting9**
 
-## line 2
+Acronym         * Long Form
 
-### Helo
+  ANSI          * American National Standards Institute
 
-_My name_ is **Riley**
+  CAD           * computer-aided design
+
+  CNC           * Computer Numerical Controlr 
